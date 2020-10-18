@@ -1,5 +1,7 @@
 # SpotifyLyrics
 
+App can be also downloaded from: https://elusivefox.net/spotifylyrics.apk
+
 Mobile Android application used to show lyrics to the currently listening song
 
 App Flow:

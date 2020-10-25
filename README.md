@@ -1,6 +1,7 @@
 # SpotifyLyrics
 
-Mobile Android application used to show lyrics to the currently listening song
+Mobile Android application used to show lyrics to the currently listening song.
+
 Apk file can be also downloaded from: https://elusivefox.net/spotifylyrics.apk
 
 Usage:

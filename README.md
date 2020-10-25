@@ -2,6 +2,10 @@
 
 App can be also downloaded from: https://elusivefox.net/spotifylyrics.apk
 
+Usage:
+1. Play something in the spotify app
+2. Click "get lyrics" button to see lyrics
+
 Mobile Android application used to show lyrics to the currently listening song
 
 App Flow:
